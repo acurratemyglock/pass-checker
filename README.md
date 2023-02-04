@@ -1,4 +1,4 @@
-# pass-checker
+# Pass-checker
 Herramienta para saber si su contraseña esta en riesgo.
 
 
